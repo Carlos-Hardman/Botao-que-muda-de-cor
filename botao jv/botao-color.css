@@ -1,0 +1,35 @@
+body{
+	font-family:cursive;
+}
+#mudacor{
+text-align:center; 
+color:white;
+padding:0px 0px 20px;
+}
+.botao1{
+border:solid orange; 
+margin:0px 20px 0px 460px; 
+background-color:orange; 
+border-radius:10px; 
+color:white; 
+font-size:30px; 
+text-decoration:none;
+}
+.botao2{
+border:solid blue;
+margin:0px 20px 0px 50px 0px;
+background-color:blue; 
+border-radius:10px; 
+color:white;
+font-size:30px; 
+text-decoration:none;
+}
+.botao3{
+border:solid red; 
+margin:0px 20px 0px ; 
+background-color:red; 
+border-radius:10px; 
+color:white; 
+font-size:30px;
+text-decoration:none;
+}
